@@ -1,9 +1,9 @@
-# DAVID EMILE
-
 from tkinter import*
 import ftplib
 from threading import Thread
 from tkinter import filedialog
+
+# DAVID EMILE
 
 def commandLineConsole(): 
 	myBruteForce()
